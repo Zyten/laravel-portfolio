@@ -13,11 +13,11 @@ Reference material for Laravel tutorial class.
 ### Installation
 
 #### 1. Git Clone / Download ZIP
-#### 2. Composer Install
+#### 2. Composer Update
 
 ```
   cd laravel-portfolio
-  composer install
+  composer update
 ```
 
 ### Recommended Companion Reads
